@@ -4,7 +4,7 @@ A modern Buy Me a Coffee style donation page** that allows supporters to send pa
 
 This project provides a clean and attractive interface where visitors can support the creator by sending small donations.
 
-##LIVE LINK
+LIVE LINK
 https://joelljoy.github.io/JO-SUPPORT/
 ---
 
